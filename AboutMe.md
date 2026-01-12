@@ -13,14 +13,12 @@ My name is <fill in your name here>. But I like to go by <my cool nickname>.
 What is your favorite food?
 What is your favorite cuisine?
 
-## Social security number:
-
-## Birthday and location:
-
 ## Hobbies:
 
-## Mother's maiden name:
+<list a few hobbies>
 
 ## What you want to do when you graduate?
 
-I've written out a ton of things. Now I'd like to save this new file. Cool. I just "commit" it.
+<this is a big question you don't need to know what you want to do. you're still young don't worry>
+
+## What's your favorite vacation spot?
