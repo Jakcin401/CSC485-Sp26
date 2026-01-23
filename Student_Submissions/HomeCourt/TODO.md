@@ -1,4 +1,4 @@
-1. Gather Data [ ]
+1. Gather Data [ ] 
 3. Import Data [ ]
    NBA games data
    Box scores
