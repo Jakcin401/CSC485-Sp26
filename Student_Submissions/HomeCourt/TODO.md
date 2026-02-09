@@ -63,3 +63,4 @@ NEXT WEEK (2/9)
 -    random tree forest?
 - find what are statistically significant factors
 - visuals? 
+-
