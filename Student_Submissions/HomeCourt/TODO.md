@@ -64,3 +64,14 @@ NEXT WEEK (2/9)
 - find what are statistically significant factors
 - visuals? 
 -
+
+
+Building/training models
+- Regression?
+     - Linear
+     - Logistic
+- Classification?
+     - KNN
+     - Random Forest
+
+ **  Look at beta Binomial from last semester **
