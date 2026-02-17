@@ -49,11 +49,39 @@ have little idea towards the approach in using them.
 
 2/1/2026
 
-- [] Make Bar graphs 
+- [CHECK] Make Bar graphs 
 - [] Make a Cord graph
 	- [Create a Cord Graph for Pokemon's teammates]
-- [] Think of questions that I want to answer in this research
+- [CHECK] Think of questions that I want to answer in this research
 	-[] Found answers 
+- [CHECK] Sleep
+- [CHECK] Plan classes for next week
+
+I was able to make clean Bar graphs and found that a Cord was not going to work with the way my dataset's layout.
+So, I created a Sankey Diagram instead. I plan to try to finish my search in using Machine Learning techniques, but so 
+far I am planning to just make sure I have everything ready before that step.
+
+--- --- --- -------------------------------------------
+
+2/08/2026
+
+- [CHECK] Make Snakey Diagram
+- [] Make a Time Series graph
+	- [] Types
+	- [] Usage
+- [] Prepare the whole dataset
+- [] Get ready to move on to some MachineLearning usage.
 - [] Sleep
 - [] Plan classes for next week
 
+
+--- --- --- -------------------------------------------
+
+2/16/2026
+
+- [] Make prep for presentation
+- [] Make revision on Capstone Proposel
+	
+- [] Find more Machine Learning methods
+- [] Sleep
+- [] Plan classes for next week
